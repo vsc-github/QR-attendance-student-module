@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/QR-attendance-student-module/static/js/runtime~main.f421feec.js"
   },
   {
-    "revision": "f3d3d904d05f21d5c0fd",
-    "url": "/QR-attendance-student-module/static/js/main.82ce825c.chunk.js"
+    "revision": "fe4bb4c6328b8b24188e",
+    "url": "/QR-attendance-student-module/static/js/main.e98f327d.chunk.js"
   },
   {
-    "revision": "f3746bb744f36bb55854",
-    "url": "/QR-attendance-student-module/static/js/2.fe5d3d8f.chunk.js"
+    "revision": "e2824aa55503d64eef1c",
+    "url": "/QR-attendance-student-module/static/js/2.8873e5d4.chunk.js"
   },
   {
-    "revision": "f3d3d904d05f21d5c0fd",
+    "revision": "fe4bb4c6328b8b24188e",
     "url": "/QR-attendance-student-module/static/css/main.2151ae4d.chunk.css"
   },
   {
-    "revision": "50135917a1f700a071031319fce4689e",
+    "revision": "229bff42fd90e57f816a3a63bd0610c3",
     "url": "/QR-attendance-student-module/index.html"
   }
 ];

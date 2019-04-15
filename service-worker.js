@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/QR-attendance-student-module/precache-manifest.69466a4103859d0569378317ab47b636.js"
+  "/QR-attendance-student-module/precache-manifest.9c775bb08d18b75796c121169e40ef8f.js"
 );
 
 workbox.clientsClaim();
